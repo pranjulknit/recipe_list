@@ -2,6 +2,11 @@
 
 A Project On Implementing API in Flutter Application.
 
+
+# Output
+
+<img src="https://github.com/pranjulknit/recipe_list/blob/master/lib/output.jpg" height="480" width="275">
+
 # What I learn:-
 
 1. How to Use Api.
