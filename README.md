@@ -1,7 +1,12 @@
 # recipe_list
 
-A new Flutter project.
+A Project On Implementing API in Flutter Application.
 
+# What I learn:-
+
+1. How to Use Api.
+2. Fetching API and using it into ListView Widget.
+2. How to integrate Api in flutter Application
 ## Getting Started
 
 This project is a starting point for a Flutter application.
